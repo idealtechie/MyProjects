@@ -31,7 +31,7 @@ $stmt=$mysqli->prepare("SELECT email,contactNo,password FROM userregistration WH
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>User Forgot Password</title>
+	<title>User Forgot Pasword</title>
 
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
